@@ -21,7 +21,7 @@ public class Main extends HvlTemplateI{
 
     @Override
     public void initialize(){
-        
+        System.out.println("YO");
     }
     
     @Override
